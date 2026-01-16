@@ -1,9 +1,23 @@
 #include <QCoreApplication>
-#include <iostream>
+#include <QTextStream>
+#include <QString>
 
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
+
+    QTextStream inputStream(stdin);
+    QTextStream outputStream(stdout);
+
+    outputStream << "Enter ur name: ";
+    outputStream.flush();
+
+    QString username =  inputStream.readLine();
+
+    outputStream << "Hello " << username;
+    outputStream.flush();
+
+
 
     // Set up code that uses the Qt event loop here.
     // Call a.quit() or a.exit() to quit the application.
@@ -15,7 +29,6 @@ int main(int argc, char *argv[])
 
     // If you do not need a running Qt event loop, remove the call
     // to a.exec() or use the Non-Qt Plain C++ Application template.
-    std::cout<< "Hello world";
 
     return a.exec();
 }
