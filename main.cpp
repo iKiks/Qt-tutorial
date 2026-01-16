@@ -1,21 +1,19 @@
 #include <QCoreApplication>
 #include <QTextStream>
 #include <QString>
-
+#include <QDebug>
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
     QTextStream inputStream(stdin);
-    QTextStream outputStream(stdout);
 
-    outputStream << "Enter ur name: ";
-    outputStream.flush();
+    qInfo() << "Enter your babes name: ";
 
     QString username =  inputStream.readLine();
 
-    outputStream << "Hello " << username;
-    outputStream.flush();
+    qInfo() << "Hello" << username << "Ïm gonna fuck your babe";
+
 
 
 
