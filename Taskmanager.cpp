@@ -6,7 +6,9 @@ TaskManager::TaskManager(QObject *parent)
 
 void TaskManager::addTask(Task *task)
 {
-    task->setParent(this);
+    if (task->parent() != this) {
+        task->setParent(this);
+    }
     connect(task, &Task::taskCompleted, this, &TaskManager::onTaskCompleted);
 
     m_tasks.append(task);
