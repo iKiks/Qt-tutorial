@@ -7,6 +7,8 @@ qt_standard_project_setup()
 
 qt_add_executable(Tutorial_1
     main.cpp
+    Task.h Task.cpp
+    Taskmanager.h Taskmanager.cpp
 )
 
 target_link_libraries(Tutorial_1
