@@ -13,15 +13,14 @@ int main(int argc, char *argv[])
 
     qInfo() << "Enter your babes name: ";
 
-    QString username =  inputStream.readLine();
 
-    qInfo() << "Hello" << username << "Ïm gonna fuck your babe";
+    qInfo() << "Hello" << username << "I'm gonna fuck you";
 
     TaskManager* taskManager = new TaskManager(&a);
 
-    Task* task1 = new Task("Task1", taskManager);
-    Task* task2 = new Task("Task2", taskManager);
-    Task* task3 = new Task("Task3", taskManager);
+    Task* task1 = new Task("Naked her", taskManager);
+    Task* task2 = new Task("Put di** in her", taskManager);
+    Task* task3 = new Task("Fuck her", taskManager);
 
     taskManager->addTask(task1);
     taskManager->addTask(task2);

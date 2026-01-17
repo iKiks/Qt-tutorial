@@ -9,8 +9,6 @@ void Task::complete() {
 
     if (!m_completed) {
         m_completed = true;
-
-        qInfo() << "Task completed: " << m_description;
         emit taskCompleted(m_description);
     }
 }
