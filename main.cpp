@@ -11,7 +11,6 @@ int main(int argc, char *argv[])
 
 
 
-    taskManager->addTask(task1);
 
 
 s
