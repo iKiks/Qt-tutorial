@@ -13,11 +13,9 @@ int main(int argc, char *argv[])
 
     taskManager->addTask(task1);
     taskManager->addTask(task2);
-    taskManager->addTask(task3);
 
 
-
-
+s
 
 
 
