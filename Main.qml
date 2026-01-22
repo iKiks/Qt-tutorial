@@ -7,7 +7,7 @@ Window {
     height: 480
     visible: true
     title: qsTr("Hello World")
-    visibility: Window.Maximized
+    // visibility: Window.Maximized
     flags: Qt.Window
 
     Rectangle {
