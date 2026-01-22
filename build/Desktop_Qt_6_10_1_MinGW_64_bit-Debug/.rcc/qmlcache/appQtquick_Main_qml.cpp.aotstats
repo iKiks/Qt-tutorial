@@ -20,6 +20,22 @@
                             "functionName": "flags",
                             "line": 11,
                             "message": "Could not find property \"flags\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 12,
+                            "durationMicroseconds": 0,
+                            "functionName": "x",
+                            "line": 17,
+                            "message": "Could not find property \"x\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 12,
+                            "durationMicroseconds": 0,
+                            "functionName": "y",
+                            "line": 18,
+                            "message": "Could not find property \"y\"."
                         }
                     ],
                     "filePath": "C:/Users/olanr/OneDrive/Documents/Qtquick/Main.qml"
