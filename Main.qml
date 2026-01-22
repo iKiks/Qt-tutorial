@@ -12,6 +12,7 @@ Window {
 
     Rectangle {
         color: "#f3f3f3"
+        height
 
     }
 
