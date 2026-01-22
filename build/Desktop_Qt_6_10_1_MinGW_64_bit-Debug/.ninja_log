@@ -80,3 +80,16 @@
 1469	2290	7908221551675122	CMakeFiles/appQtquick.dir/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appQtquick_raw_qml_0.cpp.obj	f9d87c2f2801c6e7
 1267	4965	7908221549645368	CMakeFiles/appQtquick.dir/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.rcc/qmlcache/appQtquick_Main_qml.cpp.obj	5f08375f09bb042e
 4966	6362	7908221586642296	appQtquick.exe	e07c2dbbd8a47bba
+28	360	7908222065589116	.qt/appQtquick_qml.txt	8cae2a1007340fdf
+28	360	7908222065589116	C:/Users/olanr/OneDrive/Documents/Qtquick/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/appQtquick_qml.txt	8cae2a1007340fdf
+104	725	7908222069506652	.qt/qml_imports/appQtquick_build.cmake	ec51aa6a682b7c24
+104	725	7908222069506652	C:/Users/olanr/OneDrive/Documents/Qtquick/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/qml_imports/appQtquick_build.cmake	ec51aa6a682b7c24
+940	1566	7908222077293662	.qt/rcc/qrc_appQtquick_raw_qml_0.cpp	de24ebe0111d86db
+940	1566	7908222077293662	C:/Users/olanr/OneDrive/Documents/Qtquick/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appQtquick_raw_qml_0.cpp	de24ebe0111d86db
+725	1771	7908222079898780	.rcc/qmlcache/appQtquick_Main_qml.cpp	ca4e743e0d91b5c8
+725	1771	7908222079898780	.rcc/qmlcache/appQtquick_Main_qml.cpp.aotstats	ca4e743e0d91b5c8
+725	1771	7908222079898780	C:/Users/olanr/OneDrive/Documents/Qtquick/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.rcc/qmlcache/appQtquick_Main_qml.cpp	ca4e743e0d91b5c8
+725	1771	7908222079898780	C:/Users/olanr/OneDrive/Documents/Qtquick/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.rcc/qmlcache/appQtquick_Main_qml.cpp.aotstats	ca4e743e0d91b5c8
+1963	3136	7908222082229391	CMakeFiles/appQtquick.dir/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appQtquick_raw_qml_0.cpp.obj	f9d87c2f2801c6e7
+1772	5763	7908222080311976	CMakeFiles/appQtquick.dir/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.rcc/qmlcache/appQtquick_Main_qml.cpp.obj	5f08375f09bb042e
+5764	7164	7908222120239396	appQtquick.exe	e07c2dbbd8a47bba

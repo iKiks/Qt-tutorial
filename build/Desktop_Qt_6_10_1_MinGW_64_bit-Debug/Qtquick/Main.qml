@@ -14,9 +14,8 @@ Window {
         color: "#f3f3f3"
         height: 400
         width: 400
-        top: 100
-        left: 100
-
+        x: 100
+        y: 100
     }
 
 }
