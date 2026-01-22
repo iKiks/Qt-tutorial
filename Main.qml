@@ -9,4 +9,10 @@ Window {
     title: qsTr("Hello World")
     visibility: Window.Maximized
     flags: Qt.Window
+
+    Rectangle {
+        color: "#f3f3f3"
+
+    }
+
 }
