@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Qtquick/">
+    <file alias="Main.qml">C:/Users/olanr/OneDrive/Documents/Qtquick/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Qtquick">
+    <file alias="qmldir">C:/Users/olanr/OneDrive/Documents/Qtquick/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Qtquick/qmldir</file>
+  </qresource>
+</RCC>
+
